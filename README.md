@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World! I'm Ilham Hadi Wibowo 👋
 
 <!--
 **ilhamhadi8292-png/ilhamhadi8292-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **UNJAYA**
+- 🌱 I’m currently learning **REACT JS** Framework
