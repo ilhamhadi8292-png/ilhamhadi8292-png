@@ -1,6 +1,6 @@
 ## Hello World! I'm Ilham Hadi Wibowo 👋
 
-![Ilham Hadi Wibowo](img/github-header-banner.png)
+![ilhamhadi8292-png](img/github-header-banner.png)
 <!--
 **ilhamhadi8292-png/ilhamhadi8292-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,10 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **REACT JS** Framework
 
 ##### Skills
-<img src="https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />
-<img src="https://img.shields.io/badge/Homarr-FA5252?style=for-the-badge&logo=homarr&logoColor=white" />
-<img src="https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white" />
+<img src="https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" /> <img src="https://img.shields.io/badge/Homarr-FA5252?style=for-the-badge&logo=homarr&logoColor=white" /> <img src="https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white" />
 <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" />
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
